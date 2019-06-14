@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Post_Bid_Submission_Confirmation_Terminal", "Post_Bid_Submission_Confirmation_Terminal\Post_Bid_Submission_Confirmation_Terminal.pyproj", "{6BC54919-260C-44F9-91D5-7482035EE497}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BC54919-260C-44F9-91D5-7482035EE497}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BC54919-260C-44F9-91D5-7482035EE497}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5F9F9D0-5D27-4738-92A4-4D80A8CDA9B8}
+	EndGlobalSection
+EndGlobal
